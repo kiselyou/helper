@@ -8,3 +8,5 @@ sudo apt update
 sudo apt install -y php7.3 php7.3-cli php7.3-common
 sudo apt install -y php7.2 php7.2-cli php7.2-common
 sudo apt install -y php7.1 php7.1-cli php7.1-common
+
+sudo apt-get install php5.6 php5.6-cli php5.6-common
